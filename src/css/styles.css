@@ -18,3 +18,12 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+ul {
+  list-style: none;
+}
+
+.item-img,
+.list-img {
+  height: auto;
+  width: 45px;
+}
